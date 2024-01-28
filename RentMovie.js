@@ -182,13 +182,5 @@ if (userMode) {
 
 // Admin Section
 
-
-
-
-
-
-
-
-
 // movies.getMovies();
 // movies.getMovies();
